@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/code-sage/Sentiment Analysis Using Naive Bayes/Sentiment Analysis Using Naive Bayes.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

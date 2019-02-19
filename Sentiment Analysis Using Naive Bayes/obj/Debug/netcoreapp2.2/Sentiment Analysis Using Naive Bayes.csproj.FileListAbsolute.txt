@@ -1,0 +1,11 @@
+/home/code-sage/Sentiment Analysis Using Naive Bayes/bin/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.deps.json
+/home/code-sage/Sentiment Analysis Using Naive Bayes/bin/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.runtimeconfig.json
+/home/code-sage/Sentiment Analysis Using Naive Bayes/bin/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.runtimeconfig.dev.json
+/home/code-sage/Sentiment Analysis Using Naive Bayes/bin/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.dll
+/home/code-sage/Sentiment Analysis Using Naive Bayes/bin/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.pdb
+/home/code-sage/Sentiment Analysis Using Naive Bayes/obj/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.csprojAssemblyReference.cache
+/home/code-sage/Sentiment Analysis Using Naive Bayes/obj/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.csproj.CoreCompileInputs.cache
+/home/code-sage/Sentiment Analysis Using Naive Bayes/obj/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.AssemblyInfoInputs.cache
+/home/code-sage/Sentiment Analysis Using Naive Bayes/obj/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.AssemblyInfo.cs
+/home/code-sage/Sentiment Analysis Using Naive Bayes/obj/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.dll
+/home/code-sage/Sentiment Analysis Using Naive Bayes/obj/Debug/netcoreapp2.2/Sentiment Analysis Using Naive Bayes.pdb
